@@ -3,8 +3,8 @@
 ## 📑 Índice
 - [Sobre mí](#hola-soy-ricardo-marco-)
 - [Valores profesionales](#valores-profesionales)
-- [Qué aporto](#qué-aporto)
-- [Habilidades Técnicas](#habilidades-técnicas)
+- [Qué aporto](#que-aporto)
+- [Habilidades Técnicas](#habilidades-tecnicas)
 - [Proyectos](#proyectos)
   
 Profesional con más de 20 años de experiencia en operaciones industriales y finanzas, liderando 
@@ -31,7 +31,7 @@ decisiones que generan valor sostenible.
 
 ***
 
-## 🚀 Qué aporto
+## 🚀 Que aporto
 
 - Integración de experiencia operativa + finanzas + Data Science
     - Visión transversal para conectar datos con decisiones.
@@ -60,7 +60,7 @@ decisiones que generan valor sostenible.
 
 ***
 
-## Proyectos 📊
+## 📊 Proyectos
 
 ### 🧠 Proyecto 1 — Nombre del proyecto
 - Descripción:
