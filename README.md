@@ -2,10 +2,10 @@
 
 ## 📑 Índice
 - [Sobre mí](#hola-soy-ricardo-marco-)
-- [Valores profesionales](#valores-profesionales)
-- [Qué aporto](#que-aporto)
-- [Habilidades Técnicas](#habilidades-tecnicas)
-- [Proyectos](#proyectos)
+- [Valores profesionales](#-valores-profesionales)
+- [Qué aporto](#-que-aporto)
+- [Habilidades Técnicas](#%EF%B8%8F-habilidades-técnicas)
+- [Proyectos](#-proyectos)
   
 Profesional con más de 20 años de experiencia en operaciones industriales y finanzas, liderando 
 decisiones estratégicas basadas en datos y optimización de procesos.
