@@ -1,6 +1,6 @@
-# Hola soy Ricardo Marco 👋
-
 ![Banner](./assets/banner_linkedin.jpg)
+
+# Hola soy Ricardo Marco 👋
 
 ## 📑 Índice
 - [Sobre mí](#hola-soy-ricardo-marco-)
