@@ -1,5 +1,7 @@
 # Hola soy Ricardo Marco 👋
 
+![Banner](./assets/banner_linkedin.jpg)
+
 ## 📑 Índice
 - [Sobre mí](#hola-soy-ricardo-marco-)
 - [Valores profesionales](#-valores-profesionales)
