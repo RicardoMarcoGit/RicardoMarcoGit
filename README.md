@@ -13,38 +13,37 @@ Actualmente enfocado en Data Science, diseño pipelines reproducibles, aplico va
 temporal realista y construyo modelos que aportan impacto directo en negocio.
 Combino análisis empírico, visión operativa y storytelling claro para transformar datos en 
 decisiones que generan valor sostenible.
+
 ***
+
 ## 📐 Valores profesionales
 
 - Rigor analítico
     - Decisiones basadas en evidencia, no en intuición.
-
 - Reproducibilidad
     - Procesos auditables, claros y escalables.
-
 - Realismo temporal
     - Modelos sin leakage y validados en condiciones reales.
-
 - Storytelling ejecutivo
     - Comunicar insights con claridad y foco en impacto.
-
 - Orientación a negocio
     - Cada modelo debe resolver un problema real
+
 ***
+
 ## 🚀 Qué aporto
 
 - Integración de experiencia operativa + finanzas + Data Science
     - Visión transversal para conectar datos con decisiones.
-
 - Capacidad para traducir complejidad técnica en decisiones accionables
     - Comunicación clara y orientada a impacto.
-
 - Visión completa del ciclo de valor
     - Datos → análisis → modelo → impacto.
-
 - Enfoque metodológico sólido y orientado a resultados
     - Rigor, claridad y eficiencia en cada proyecto.
+
 ***
+
 ## 🛠️ Habilidades Técnicas
 | Área | Tecnologías |
 | --- | --- |
@@ -58,8 +57,10 @@ decisiones que generan valor sostenible.
 | **Visualización** | Seaborn · Plotly |
 | **Business Intelligence** | Excel · Power BI · Looker · Tableau |
 | **Entorno** | Git · GitHub · Jupyter · VS Code |
+
 ***
-## 📊 Proyectos
+
+## Proyectos 📊
 
 ### 🧠 Proyecto 1 — Nombre del proyecto
 - Descripción:
